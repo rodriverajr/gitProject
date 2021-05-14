@@ -1,3 +1,3 @@
 
-const a=50;
+const myFunc = () =>{}
 const b ="hi there";
